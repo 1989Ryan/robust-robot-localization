@@ -1,7 +1,6 @@
 # -*- coding: utf8 -*-
 """
-     OpenSeqSLAM
-     Copyright 2013, Niko S��nderhauf Chemnitz University of Technology niko@etit.tu-chemnitz.de
+     OpenSeqSLA
 
      pySeqSLAM is an open source Python implementation of the original SeqSLAM algorithm published by Milford and Wyeth at ICRA12 [1]. SeqSLAM performs place recognition by matching sequences of images.
      
