@@ -1,3 +1,9 @@
+'''
+Pyseqslam
+
+parameters
+'''
+
 from utils import AttributeDict
 from PIL import Image
 
