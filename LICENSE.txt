@@ -1,4 +1,4 @@
-This is a Python port of Niko Sünderhauf's OpenSeqSLAM, whose original code can be found here:
+This is a Python implementation of Niko Sünderhauf's OpenSeqSLAM, whose original code can be found here:
 http://www.tu-chemnitz.de/etit/proaut/mitarbeiter/niko.html
 
 
