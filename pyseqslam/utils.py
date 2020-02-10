@@ -1,3 +1,7 @@
+'''
+oop template
+'''
+
 from copy import deepcopy
 
 class AttributeDict(dict):
