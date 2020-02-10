@@ -1,4 +1,5 @@
 '''
+Baseline setup
 Python implementation of SeqSLAM by Michael Milford. Performs place recognition by matching sequences of images.
 '''
 import sys
