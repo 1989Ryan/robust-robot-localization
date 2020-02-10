@@ -1,3 +1,7 @@
+'''
+seqslam python implementation
+'''
+
 from utils import AttributeDict
 import os
 import numpy as np
