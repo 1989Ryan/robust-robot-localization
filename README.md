@@ -1,6 +1,8 @@
+# Robust place recognition
+
 This is a Python port of Niko Sünderhauf's [OpenSeqSLAM code](http://www.tu-chemnitz.de/etit/proaut/mitarbeiter/niko.html).
 
-SeqSLAM performs place recognition by matching sequences of images. 
+SeqSLAM performs place recognition by matching sequences of images, it is the baseline of our research. 
 
 Quick start: 
  - Download the Nordland dataset:
