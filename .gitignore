@@ -9,4 +9,5 @@
 *.project
 *.pydevproject
 *.yml
+*.m
 /.settings
