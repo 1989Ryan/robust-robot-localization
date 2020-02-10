@@ -1,7 +1,5 @@
 '''
 pySeqSLAM: Main module
-
-Copyright 2015, Tamas Madl
 Licensed under MIT.
 '''
 
